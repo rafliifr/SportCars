@@ -1,0 +1,49 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "name": "Lamborghini Aventador",
+      "release_year": "2011",
+      "type": "Supercar",
+      "country": "Italy",
+      "brand": "Lamborghini",
+      "image": "https://i.ibb.co.com/fVjn7MXh/aventador.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ferrari LaFerrari",
+      "release_year": "2013",
+      "type": "Hypercar",
+      "country": "Italy",
+      "brand": "Ferrari",
+      "image": "https://i.ibb.co.com/k2jpKq9r/laferrari.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Bugatti Chiron",
+      "release_year": "2016",
+      "type": "Hypercar",
+      "country": "France",
+      "brand": "Bugatti",
+      "image": "https://i.ibb.co.com/wF56r8f0/chiron.webp"
+    },
+    {
+      "id": "4",
+      "name": "McLaren P1",
+      "release_year": "2013",
+      "type": "Hypercar",
+      "country": "United Kingdom",
+      "brand": "McLaren",
+      "image": "https://i.ibb.co.com/XrwGj1mg/mclaren-p1.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Porsche 918 Spyder",
+      "release_year": "2013",
+      "type": "Hypercar",
+      "country": "Germany",
+      "brand": "Porsche",
+      "image": "https://i.ibb.co.com/60ZcQ5Mc/918-spyder.jpg"
+    }
+  ]
+}
