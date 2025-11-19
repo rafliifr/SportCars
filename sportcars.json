@@ -7,7 +7,7 @@
       "type": "Supercar",
       "country": "Italy",
       "brand": "Lamborghini",
-      "image": "https://i.ibb.co.com/fVjn7MXh/aventador.jpg"
+      "image": "https://ibb.co.com/4whYxWF6"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "type": "Hypercar",
       "country": "Italy",
       "brand": "Ferrari",
-      "image": "https://i.ibb.co.com/k2jpKq9r/laferrari.jpg"
+      "image": "https://ibb.co.com/nM9TrQnV"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "type": "Hypercar",
       "country": "France",
       "brand": "Bugatti",
-      "image": "https://i.ibb.co.com/wF56r8f0/chiron.webp"
+      "image": "https://ibb.co.com/mVfzFd3D"
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "type": "Hypercar",
       "country": "United Kingdom",
       "brand": "McLaren",
-      "image": "https://i.ibb.co.com/XrwGj1mg/mclaren-p1.jpg"
+      "image": "https://ibb.co.com/21bpWxXQ"
     },
     {
       "id": "5",
@@ -43,7 +43,7 @@
       "type": "Hypercar",
       "country": "Germany",
       "brand": "Porsche",
-      "image": "https://i.ibb.co.com/60ZcQ5Mc/918-spyder.jpg"
+      "image": "https://ibb.co.com/1GnYcxgY"
     }
   ]
 }
